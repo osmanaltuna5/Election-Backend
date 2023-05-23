@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-05-21T10:27:36.8865319Z;True|2023-05-21T13:16:43.0027457+03:00;True|2023-05-21T12:51:35.0222767+03:00;True|2023-05-21T12:29:13.5616297+03:00;False|2023-05-21T12:27:46.4985086+03:00;True|2023-05-19T21:19:36.1535126+03:00;False|2023-05-19T21:18:34.4420973+03:00;False|2023-05-19T21:17:46.8051039+03:00;True|2023-05-19T00:10:38.9034500+03:00;True|2023-05-18T23:51:01.2465540+03:00;True|2023-05-18T23:46:59.3180003+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="defaultConnection">
+      <Value>Data Source=SQL5110.site4now.net%3bInitial Catalog=db_a997f2_electiondb%3bUser Id=db_a997f2_electiondb_admin%3bPassword=Fatih5807.</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Election_System.Configurations.DataContext">
+      <Value>Data Source=SQL5110.site4now.net%3bInitial Catalog=db_a997f2_electiondb%3bUser Id=db_a997f2_electiondb_admin%3bPassword=Fatih5807.</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

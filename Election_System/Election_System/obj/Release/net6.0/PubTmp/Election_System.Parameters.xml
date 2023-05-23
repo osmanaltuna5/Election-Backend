@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="fatihyelboga-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Fatih\ YELBOĞA\\Desktop\\GitHub\\Election\.System\.Backend\\Election_System\\Election_System\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Election_System.Configurations.DataContext" description="" value="Data Source=SQL5110.site4now.net;Initial Catalog=db_a997f2_electiondb;User Id=db_a997f2_electiondb_admin;Password=Fatih5807." tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Fatih\ YELBOĞA\\Desktop\\GitHub\\Election\.System\.Backend\\Election_System\\Election_System\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\Election_System\.Configurations\.DataContext\.sql$" />
+  </parameter>
+</parameters>

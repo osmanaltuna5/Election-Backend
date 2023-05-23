@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Fatih YELBOĞA\Desktop\GitHub\Election.System.Backend\Election_System\Election_System\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Fatih YELBOĞA\Desktop\GitHub\Election.System.Backend\Election_System\Election_System\obj\Release\net6.0\PubTmp\EFSQLScripts\Election_System.Configurations.DataContext.sql" />
+</sitemanifest>
